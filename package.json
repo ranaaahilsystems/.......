@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/locmai0808/Facebook-Access-Token.git"
+    "url": "git+https://github.com/ranaaahilsystems/......."
   },
-  "author": "Loc Mai",
+  "author": "Rana Aahil",
   "license": "MIT",
   "dependencies": {
     "axios-proxy-fix": "^0.16.3",
@@ -18,7 +18,7 @@
     "uuid": "^3.3.2"
   },
   "bugs": {
-    "url": "https://github.com/locmai0808/Facebook-Access-Token/issues"
+    "url": "https://github.com/ranaaahilsystems/......./issues"
   },
-  "homepage": "https://github.com/locmai0808/Facebook-Access-Token#readme"
+  "homepage": "https://github.com/ranaaahilsystems/.......#"
 }
