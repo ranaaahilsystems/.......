@@ -47,7 +47,7 @@ async function getToken(email, password) {
       'x-fb-connection-quality': 'EXCELLENT',
       'x-fb-connection-type': 'cell.CTRadioAccessTechnologyHSDPA',
       'user-agent':
-        'Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]',
+        'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A356 Safari/604.1',
       'content-type': 'application/x-www-form-urlencoded',
       'x-fb-http-engine': 'Liger'
     }
